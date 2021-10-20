@@ -1,3 +1,18 @@
+chap#1 요약
+나의 첫번째 리액트 컴포넌트
+
+chap#2 요약
+JSX
+
+chap#3 요약
+props 를 통해 컴포넌트에게 값 전달하기
+
+chap#4 요약
+조건부 렌더링
+
+chap#5 요약
+react 컴포넌트 라이프사이클 이벤트
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
